@@ -15,6 +15,7 @@ A list of useful Open Source tools and scrapers to gather data for LLMs:
 | [marker](https://github.com/VikParuchuri/marker) |  Convert PDF to markdown or JSON quickly | 
 | [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix `https://r.jina.ai/` | 
 | [files-to-prompt](https://github.com/simonw/files-to-prompt) | Concatenate a directory full of files into a single prompt for use with LLMs | 
+| [docling](https://github.com/DS4SD/docling) | Simplifies document processing and parsing of diverse formats | 
 
 ## More
 - https://github.com/mlabonne/llm-datasets: Curated list of datasets and tools specifically for post-training.
