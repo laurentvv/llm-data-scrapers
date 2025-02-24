@@ -13,6 +13,7 @@ A list of useful Open Source tools and scrapers to gather data for LLMs:
 | [trafilatura](https://github.com/adbar/trafilatura) |  Python & Command-line tool to gather text and metadata on the web | 
 | [RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) |  Simple Python script to fetch repo content | 
 | [marker](https://github.com/VikParuchuri/marker) |  Convert PDF to markdown or JSON quickly | 
+| [reader](https://github.com/jina-ai/reader) | Convert any URL to an LLM-friendly input with a simple prefix `https://r.jina.ai/` | 
 
 ## More
 - https://github.com/mlabonne/llm-datasets: Curated list of datasets and tools specifically for post-training.
